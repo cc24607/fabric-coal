@@ -1,5 +1,5 @@
 # fabric-CoalMine
-本文是基于hyperledger-fabric框架的Coal Mine Scheduling Speech Storage Based on Consortium Blockchain
+本项目是基于hyperledger-fabric框架的Coal Mine Scheduling Speech Storage Based on Consortium Blockchain
 ，实现语音转文本后的数据上链存证、智能合约溯源码生成及提高煤矿企业监管透明性。
 ## 一、启动区块链网络
 
